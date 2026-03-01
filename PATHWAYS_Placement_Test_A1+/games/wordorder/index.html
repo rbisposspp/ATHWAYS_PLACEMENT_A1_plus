@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Wordorder | Offline Lesson</title>
+    <link rel="stylesheet" href="../../assets/css/main.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header class="card row">
+        <a class="link" href="../../index.html">Back</a>
+        <strong id="activity-title">Wordorder</strong>
+      </header>
+      <section class="card">
+        <p id="activity-type" class="pill"></p>
+        <p id="activity-prompt"></p>
+        <div class="row gap">
+          <button id="toggle-answers" class="btn alt" type="button">Show answers</button>
+        </div>
+        <p id="status" class="status" aria-live="polite"></p>
+        <p id="score" class="muted">Score: --</p>
+        <div id="game-root" class="stack"></div>
+        <div id="answers" class="card hidden"></div>
+      </section>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>

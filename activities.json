@@ -1,0 +1,1369 @@
+{
+  "lesson": {
+    "id": "1-complete-the-sentences-7ds4yc",
+    "title": "1 Complete the sentences with the past simple form of the verbs in brackets.",
+    "description": "Generated from markdown source."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "1 Complete the sentences with the past simple form of the verbs in brackets.",
+      "activities": [
+        {
+          "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-a1",
+          "type": "open_ended",
+          "prompt": "I (see) a good film last night.",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        },
+        {
+          "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-a2",
+          "type": "open_ended",
+          "prompt": "Where (you / put) the scissors?",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        },
+        {
+          "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-a3",
+          "type": "open_ended",
+          "prompt": "I (sit) down because I (feel) tired.",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        },
+        {
+          "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-a4",
+          "type": "open_ended",
+          "prompt": "Jack (study) all evening.",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        },
+        {
+          "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-a5",
+          "type": "open_ended",
+          "prompt": "We (not find) the blanket.",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        },
+        {
+          "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-a6",
+          "type": "open_ended",
+          "prompt": "They (travel) all over Europe.",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "2 Write sentences in the past simple.",
+      "activities": [
+        {
+          "id": "2-write-sentences-in-the-past-simple-a1",
+          "type": "open_ended",
+          "prompt": "I / be / at home / last night.",
+          "game": "flashcards"
+        },
+        {
+          "id": "2-write-sentences-in-the-past-simple-a2",
+          "type": "open_ended",
+          "prompt": "you / be / happy / with your exam results?",
+          "game": "flashcards"
+        },
+        {
+          "id": "2-write-sentences-in-the-past-simple-a3",
+          "type": "open_ended",
+          "prompt": "It / not be / foggy / yesterday.",
+          "game": "flashcards"
+        },
+        {
+          "id": "2-write-sentences-in-the-past-simple-a4",
+          "type": "open_ended",
+          "prompt": "the knives and forks / be / on the table?",
+          "game": "flashcards"
+        },
+        {
+          "id": "2-write-sentences-in-the-past-simple-a5",
+          "type": "open_ended",
+          "prompt": "My comb / be / under the bed.",
+          "game": "flashcards"
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "3 Complete the sentences with the past simple of be and a, an, some or any.",
+      "activities": [
+        {
+          "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-a1",
+          "type": "open_ended",
+          "prompt": "There pillow on the bed. (–)",
+          "game": "flashcards"
+        },
+        {
+          "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-a2",
+          "type": "open_ended",
+          "prompt": "there space on the train? (?)",
+          "game": "flashcards"
+        },
+        {
+          "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-a3",
+          "type": "open_ended",
+          "prompt": "There people outside. (+)",
+          "game": "flashcards"
+        },
+        {
+          "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-a4",
+          "type": "open_ended",
+          "prompt": "There time to have breakfast. (–)",
+          "game": "flashcards"
+        },
+        {
+          "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-a5",
+          "type": "open_ended",
+          "prompt": "there plates in the kitchen? (?)",
+          "game": "flashcards"
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "4 Circle the correct options.",
+      "activities": [
+        {
+          "id": "4-circle-the-correct-options-a1",
+          "type": "open_ended",
+          "prompt": "Did / Were you at the gym last night?",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "4-circle-the-correct-options-a2",
+          "type": "open_ended",
+          "prompt": "I went / was to the supermarket yesterday.",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "4-circle-the-correct-options-a3",
+          "type": "open_ended",
+          "prompt": "They / There were some plates on the table.",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "4-circle-the-correct-options-a4",
+          "type": "open_ended",
+          "prompt": "Kerem’s brother was / were at school this morning.",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "4-circle-the-correct-options-a5",
+          "type": "open_ended",
+          "prompt": "You left / Did you leave early yesterday?",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "5 Tick (✓) the sentences that are correct. Put a cross (✗) if they are incorrect.",
+      "activities": [
+        {
+          "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-a1",
+          "type": "open_ended",
+          "prompt": "There weren’t any food for the dog. [ ]",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        },
+        {
+          "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-a2",
+          "type": "open_ended",
+          "prompt": "You feel sad after the film yesterday? [ ]",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        },
+        {
+          "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-a3",
+          "type": "open_ended",
+          "prompt": "I didn’t see Mike last night. [ ]",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        },
+        {
+          "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-a4",
+          "type": "open_ended",
+          "prompt": "What said your mum? [ ]",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        },
+        {
+          "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-a5",
+          "type": "open_ended",
+          "prompt": "Josh sent you a message this morning. [ ]",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "6 Circle the correct options.",
+      "activities": [
+        {
+          "id": "6-circle-the-correct-options-a1",
+          "type": "open_ended",
+          "prompt": "a there wasn’t &nbsp;&nbsp;&nbsp; b didn’t start &nbsp;&nbsp;&nbsp; c not started",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "6-circle-the-correct-options-a2",
+          "type": "open_ended",
+          "prompt": "a get up &nbsp;&nbsp;&nbsp; b did get up &nbsp;&nbsp;&nbsp; c got up",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "6-circle-the-correct-options-a3",
+          "type": "open_ended",
+          "prompt": "a didn’t have &nbsp;&nbsp;&nbsp; b wasn’t &nbsp;&nbsp;&nbsp; c had not",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "6-circle-the-correct-options-a4",
+          "type": "open_ended",
+          "prompt": "a hadn’t any &nbsp;&nbsp;&nbsp; b wasn’t any &nbsp;&nbsp;&nbsp; c was some",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "6-circle-the-correct-options-a5",
+          "type": "open_ended",
+          "prompt": "a leaved &nbsp;&nbsp;&nbsp; b went &nbsp;&nbsp;&nbsp; c left",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "1 Complete the sentences with the past simple form of the verbs in brackets.",
+      "activities": [
+        {
+          "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-2-a1",
+          "type": "open_ended",
+          "prompt": "saw (Example)",
+          "game": "flashcards"
+        },
+        {
+          "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-2-a2",
+          "type": "open_ended",
+          "prompt": "did you put",
+          "game": "flashcards"
+        },
+        {
+          "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-2-a3",
+          "type": "open_ended",
+          "prompt": "sat / felt",
+          "game": "flashcards"
+        },
+        {
+          "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-2-a4",
+          "type": "open_ended",
+          "prompt": "studied",
+          "game": "flashcards"
+        },
+        {
+          "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-2-a5",
+          "type": "open_ended",
+          "prompt": "didn’t find",
+          "game": "flashcards"
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "2 Write sentences in the past simple.",
+      "activities": [
+        {
+          "id": "2-write-sentences-in-the-past-simple-2-a1",
+          "type": "open_ended",
+          "prompt": "I was at home last night. (Example)",
+          "game": "flashcards"
+        },
+        {
+          "id": "2-write-sentences-in-the-past-simple-2-a2",
+          "type": "open_ended",
+          "prompt": "Were you happy with your exam results?",
+          "game": "flashcards"
+        },
+        {
+          "id": "2-write-sentences-in-the-past-simple-2-a3",
+          "type": "open_ended",
+          "prompt": "It wasn’t foggy yesterday.",
+          "game": "flashcards"
+        },
+        {
+          "id": "2-write-sentences-in-the-past-simple-2-a4",
+          "type": "open_ended",
+          "prompt": "Were the knives and forks on the table?",
+          "game": "flashcards"
+        },
+        {
+          "id": "2-write-sentences-in-the-past-simple-2-a5",
+          "type": "open_ended",
+          "prompt": "My comb was under the bed.",
+          "game": "flashcards"
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "3 Complete the sentences with the past simple of be and a, an, some or any.",
+      "activities": [
+        {
+          "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-2-a1",
+          "type": "open_ended",
+          "prompt": "wasn't / a (Example)",
+          "game": "flashcards"
+        },
+        {
+          "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-2-a2",
+          "type": "open_ended",
+          "prompt": "Was / any",
+          "game": "flashcards"
+        },
+        {
+          "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-2-a3",
+          "type": "open_ended",
+          "prompt": "were / some",
+          "game": "flashcards"
+        },
+        {
+          "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-2-a4",
+          "type": "open_ended",
+          "prompt": "wasn't / any",
+          "game": "flashcards"
+        },
+        {
+          "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-2-a5",
+          "type": "open_ended",
+          "prompt": "Were / any",
+          "game": "flashcards"
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "4 Circle the correct options.",
+      "activities": [
+        {
+          "id": "4-circle-the-correct-options-2-a1",
+          "type": "open_ended",
+          "prompt": "Were",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "4-circle-the-correct-options-2-a2",
+          "type": "open_ended",
+          "prompt": "went",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "4-circle-the-correct-options-2-a3",
+          "type": "open_ended",
+          "prompt": "There",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "4-circle-the-correct-options-2-a4",
+          "type": "open_ended",
+          "prompt": "was",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "4-circle-the-correct-options-2-a5",
+          "type": "open_ended",
+          "prompt": "Did you leave",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "5 Tick (✓) the sentences that are correct. Put a cross (✗) if they are incorrect.",
+      "activities": [
+        {
+          "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-2-a1",
+          "type": "open_ended",
+          "prompt": "✗",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        },
+        {
+          "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-2-a2",
+          "type": "open_ended",
+          "prompt": "✗",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        },
+        {
+          "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-2-a3",
+          "type": "open_ended",
+          "prompt": "✓",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        },
+        {
+          "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-2-a4",
+          "type": "open_ended",
+          "prompt": "✗",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        },
+        {
+          "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-2-a5",
+          "type": "open_ended",
+          "prompt": "✓",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted to quiz flow from non-mcq source type."
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-12",
+      "title": "6 Circle the correct options.",
+      "activities": [
+        {
+          "id": "6-circle-the-correct-options-2-a1",
+          "type": "open_ended",
+          "prompt": "b (didn't start)",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "6-circle-the-correct-options-2-a2",
+          "type": "open_ended",
+          "prompt": "c (got up)",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "6-circle-the-correct-options-2-a3",
+          "type": "open_ended",
+          "prompt": "a (didn't have)",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "6-circle-the-correct-options-2-a4",
+          "type": "open_ended",
+          "prompt": "b (wasn't any)",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        },
+        {
+          "id": "6-circle-the-correct-options-2-a5",
+          "type": "open_ended",
+          "prompt": "c (left)",
+          "game": "quiz",
+          "teacher_notes": {
+            "flags": {
+              "converted": true
+            },
+            "note": "Converted from mcq due to missing reliable options in source."
+          }
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-a1",
+      "type": "open_ended",
+      "prompt": "I (see) a good film last night.",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-1",
+      "sectionTitle": "1 Complete the sentences with the past simple form of the verbs in brackets."
+    },
+    {
+      "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-a2",
+      "type": "open_ended",
+      "prompt": "Where (you / put) the scissors?",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-1",
+      "sectionTitle": "1 Complete the sentences with the past simple form of the verbs in brackets."
+    },
+    {
+      "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-a3",
+      "type": "open_ended",
+      "prompt": "I (sit) down because I (feel) tired.",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-1",
+      "sectionTitle": "1 Complete the sentences with the past simple form of the verbs in brackets."
+    },
+    {
+      "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-a4",
+      "type": "open_ended",
+      "prompt": "Jack (study) all evening.",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-1",
+      "sectionTitle": "1 Complete the sentences with the past simple form of the verbs in brackets."
+    },
+    {
+      "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-a5",
+      "type": "open_ended",
+      "prompt": "We (not find) the blanket.",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-1",
+      "sectionTitle": "1 Complete the sentences with the past simple form of the verbs in brackets."
+    },
+    {
+      "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-a6",
+      "type": "open_ended",
+      "prompt": "They (travel) all over Europe.",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-1",
+      "sectionTitle": "1 Complete the sentences with the past simple form of the verbs in brackets."
+    },
+    {
+      "id": "2-write-sentences-in-the-past-simple-a1",
+      "type": "open_ended",
+      "prompt": "I / be / at home / last night.",
+      "game": "flashcards",
+      "sectionId": "section-2",
+      "sectionTitle": "2 Write sentences in the past simple."
+    },
+    {
+      "id": "2-write-sentences-in-the-past-simple-a2",
+      "type": "open_ended",
+      "prompt": "you / be / happy / with your exam results?",
+      "game": "flashcards",
+      "sectionId": "section-2",
+      "sectionTitle": "2 Write sentences in the past simple."
+    },
+    {
+      "id": "2-write-sentences-in-the-past-simple-a3",
+      "type": "open_ended",
+      "prompt": "It / not be / foggy / yesterday.",
+      "game": "flashcards",
+      "sectionId": "section-2",
+      "sectionTitle": "2 Write sentences in the past simple."
+    },
+    {
+      "id": "2-write-sentences-in-the-past-simple-a4",
+      "type": "open_ended",
+      "prompt": "the knives and forks / be / on the table?",
+      "game": "flashcards",
+      "sectionId": "section-2",
+      "sectionTitle": "2 Write sentences in the past simple."
+    },
+    {
+      "id": "2-write-sentences-in-the-past-simple-a5",
+      "type": "open_ended",
+      "prompt": "My comb / be / under the bed.",
+      "game": "flashcards",
+      "sectionId": "section-2",
+      "sectionTitle": "2 Write sentences in the past simple."
+    },
+    {
+      "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-a1",
+      "type": "open_ended",
+      "prompt": "There pillow on the bed. (–)",
+      "game": "flashcards",
+      "sectionId": "section-3",
+      "sectionTitle": "3 Complete the sentences with the past simple of be and a, an, some or any."
+    },
+    {
+      "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-a2",
+      "type": "open_ended",
+      "prompt": "there space on the train? (?)",
+      "game": "flashcards",
+      "sectionId": "section-3",
+      "sectionTitle": "3 Complete the sentences with the past simple of be and a, an, some or any."
+    },
+    {
+      "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-a3",
+      "type": "open_ended",
+      "prompt": "There people outside. (+)",
+      "game": "flashcards",
+      "sectionId": "section-3",
+      "sectionTitle": "3 Complete the sentences with the past simple of be and a, an, some or any."
+    },
+    {
+      "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-a4",
+      "type": "open_ended",
+      "prompt": "There time to have breakfast. (–)",
+      "game": "flashcards",
+      "sectionId": "section-3",
+      "sectionTitle": "3 Complete the sentences with the past simple of be and a, an, some or any."
+    },
+    {
+      "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-a5",
+      "type": "open_ended",
+      "prompt": "there plates in the kitchen? (?)",
+      "game": "flashcards",
+      "sectionId": "section-3",
+      "sectionTitle": "3 Complete the sentences with the past simple of be and a, an, some or any."
+    },
+    {
+      "id": "4-circle-the-correct-options-a1",
+      "type": "open_ended",
+      "prompt": "Did / Were you at the gym last night?",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-4",
+      "sectionTitle": "4 Circle the correct options."
+    },
+    {
+      "id": "4-circle-the-correct-options-a2",
+      "type": "open_ended",
+      "prompt": "I went / was to the supermarket yesterday.",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-4",
+      "sectionTitle": "4 Circle the correct options."
+    },
+    {
+      "id": "4-circle-the-correct-options-a3",
+      "type": "open_ended",
+      "prompt": "They / There were some plates on the table.",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-4",
+      "sectionTitle": "4 Circle the correct options."
+    },
+    {
+      "id": "4-circle-the-correct-options-a4",
+      "type": "open_ended",
+      "prompt": "Kerem’s brother was / were at school this morning.",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-4",
+      "sectionTitle": "4 Circle the correct options."
+    },
+    {
+      "id": "4-circle-the-correct-options-a5",
+      "type": "open_ended",
+      "prompt": "You left / Did you leave early yesterday?",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-4",
+      "sectionTitle": "4 Circle the correct options."
+    },
+    {
+      "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-a1",
+      "type": "open_ended",
+      "prompt": "There weren’t any food for the dog. [ ]",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-5",
+      "sectionTitle": "5 Tick (✓) the sentences that are correct. Put a cross (✗) if they are incorrect."
+    },
+    {
+      "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-a2",
+      "type": "open_ended",
+      "prompt": "You feel sad after the film yesterday? [ ]",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-5",
+      "sectionTitle": "5 Tick (✓) the sentences that are correct. Put a cross (✗) if they are incorrect."
+    },
+    {
+      "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-a3",
+      "type": "open_ended",
+      "prompt": "I didn’t see Mike last night. [ ]",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-5",
+      "sectionTitle": "5 Tick (✓) the sentences that are correct. Put a cross (✗) if they are incorrect."
+    },
+    {
+      "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-a4",
+      "type": "open_ended",
+      "prompt": "What said your mum? [ ]",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-5",
+      "sectionTitle": "5 Tick (✓) the sentences that are correct. Put a cross (✗) if they are incorrect."
+    },
+    {
+      "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-a5",
+      "type": "open_ended",
+      "prompt": "Josh sent you a message this morning. [ ]",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-5",
+      "sectionTitle": "5 Tick (✓) the sentences that are correct. Put a cross (✗) if they are incorrect."
+    },
+    {
+      "id": "6-circle-the-correct-options-a1",
+      "type": "open_ended",
+      "prompt": "a there wasn’t &nbsp;&nbsp;&nbsp; b didn’t start &nbsp;&nbsp;&nbsp; c not started",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-6",
+      "sectionTitle": "6 Circle the correct options."
+    },
+    {
+      "id": "6-circle-the-correct-options-a2",
+      "type": "open_ended",
+      "prompt": "a get up &nbsp;&nbsp;&nbsp; b did get up &nbsp;&nbsp;&nbsp; c got up",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-6",
+      "sectionTitle": "6 Circle the correct options."
+    },
+    {
+      "id": "6-circle-the-correct-options-a3",
+      "type": "open_ended",
+      "prompt": "a didn’t have &nbsp;&nbsp;&nbsp; b wasn’t &nbsp;&nbsp;&nbsp; c had not",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-6",
+      "sectionTitle": "6 Circle the correct options."
+    },
+    {
+      "id": "6-circle-the-correct-options-a4",
+      "type": "open_ended",
+      "prompt": "a hadn’t any &nbsp;&nbsp;&nbsp; b wasn’t any &nbsp;&nbsp;&nbsp; c was some",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-6",
+      "sectionTitle": "6 Circle the correct options."
+    },
+    {
+      "id": "6-circle-the-correct-options-a5",
+      "type": "open_ended",
+      "prompt": "a leaved &nbsp;&nbsp;&nbsp; b went &nbsp;&nbsp;&nbsp; c left",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-6",
+      "sectionTitle": "6 Circle the correct options."
+    },
+    {
+      "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-2-a1",
+      "type": "open_ended",
+      "prompt": "saw (Example)",
+      "game": "flashcards",
+      "sectionId": "section-7",
+      "sectionTitle": "1 Complete the sentences with the past simple form of the verbs in brackets."
+    },
+    {
+      "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-2-a2",
+      "type": "open_ended",
+      "prompt": "did you put",
+      "game": "flashcards",
+      "sectionId": "section-7",
+      "sectionTitle": "1 Complete the sentences with the past simple form of the verbs in brackets."
+    },
+    {
+      "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-2-a3",
+      "type": "open_ended",
+      "prompt": "sat / felt",
+      "game": "flashcards",
+      "sectionId": "section-7",
+      "sectionTitle": "1 Complete the sentences with the past simple form of the verbs in brackets."
+    },
+    {
+      "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-2-a4",
+      "type": "open_ended",
+      "prompt": "studied",
+      "game": "flashcards",
+      "sectionId": "section-7",
+      "sectionTitle": "1 Complete the sentences with the past simple form of the verbs in brackets."
+    },
+    {
+      "id": "1-complete-the-sentences-with-the-past-simple-form-of-the-verbs-in-brackets-2-a5",
+      "type": "open_ended",
+      "prompt": "didn’t find",
+      "game": "flashcards",
+      "sectionId": "section-7",
+      "sectionTitle": "1 Complete the sentences with the past simple form of the verbs in brackets."
+    },
+    {
+      "id": "2-write-sentences-in-the-past-simple-2-a1",
+      "type": "open_ended",
+      "prompt": "I was at home last night. (Example)",
+      "game": "flashcards",
+      "sectionId": "section-8",
+      "sectionTitle": "2 Write sentences in the past simple."
+    },
+    {
+      "id": "2-write-sentences-in-the-past-simple-2-a2",
+      "type": "open_ended",
+      "prompt": "Were you happy with your exam results?",
+      "game": "flashcards",
+      "sectionId": "section-8",
+      "sectionTitle": "2 Write sentences in the past simple."
+    },
+    {
+      "id": "2-write-sentences-in-the-past-simple-2-a3",
+      "type": "open_ended",
+      "prompt": "It wasn’t foggy yesterday.",
+      "game": "flashcards",
+      "sectionId": "section-8",
+      "sectionTitle": "2 Write sentences in the past simple."
+    },
+    {
+      "id": "2-write-sentences-in-the-past-simple-2-a4",
+      "type": "open_ended",
+      "prompt": "Were the knives and forks on the table?",
+      "game": "flashcards",
+      "sectionId": "section-8",
+      "sectionTitle": "2 Write sentences in the past simple."
+    },
+    {
+      "id": "2-write-sentences-in-the-past-simple-2-a5",
+      "type": "open_ended",
+      "prompt": "My comb was under the bed.",
+      "game": "flashcards",
+      "sectionId": "section-8",
+      "sectionTitle": "2 Write sentences in the past simple."
+    },
+    {
+      "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-2-a1",
+      "type": "open_ended",
+      "prompt": "wasn't / a (Example)",
+      "game": "flashcards",
+      "sectionId": "section-9",
+      "sectionTitle": "3 Complete the sentences with the past simple of be and a, an, some or any."
+    },
+    {
+      "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-2-a2",
+      "type": "open_ended",
+      "prompt": "Was / any",
+      "game": "flashcards",
+      "sectionId": "section-9",
+      "sectionTitle": "3 Complete the sentences with the past simple of be and a, an, some or any."
+    },
+    {
+      "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-2-a3",
+      "type": "open_ended",
+      "prompt": "were / some",
+      "game": "flashcards",
+      "sectionId": "section-9",
+      "sectionTitle": "3 Complete the sentences with the past simple of be and a, an, some or any."
+    },
+    {
+      "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-2-a4",
+      "type": "open_ended",
+      "prompt": "wasn't / any",
+      "game": "flashcards",
+      "sectionId": "section-9",
+      "sectionTitle": "3 Complete the sentences with the past simple of be and a, an, some or any."
+    },
+    {
+      "id": "3-complete-the-sentences-with-the-past-simple-of-be-and-a-an-some-or-any-2-a5",
+      "type": "open_ended",
+      "prompt": "Were / any",
+      "game": "flashcards",
+      "sectionId": "section-9",
+      "sectionTitle": "3 Complete the sentences with the past simple of be and a, an, some or any."
+    },
+    {
+      "id": "4-circle-the-correct-options-2-a1",
+      "type": "open_ended",
+      "prompt": "Were",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-10",
+      "sectionTitle": "4 Circle the correct options."
+    },
+    {
+      "id": "4-circle-the-correct-options-2-a2",
+      "type": "open_ended",
+      "prompt": "went",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-10",
+      "sectionTitle": "4 Circle the correct options."
+    },
+    {
+      "id": "4-circle-the-correct-options-2-a3",
+      "type": "open_ended",
+      "prompt": "There",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-10",
+      "sectionTitle": "4 Circle the correct options."
+    },
+    {
+      "id": "4-circle-the-correct-options-2-a4",
+      "type": "open_ended",
+      "prompt": "was",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-10",
+      "sectionTitle": "4 Circle the correct options."
+    },
+    {
+      "id": "4-circle-the-correct-options-2-a5",
+      "type": "open_ended",
+      "prompt": "Did you leave",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-10",
+      "sectionTitle": "4 Circle the correct options."
+    },
+    {
+      "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-2-a1",
+      "type": "open_ended",
+      "prompt": "✗",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-11",
+      "sectionTitle": "5 Tick (✓) the sentences that are correct. Put a cross (✗) if they are incorrect."
+    },
+    {
+      "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-2-a2",
+      "type": "open_ended",
+      "prompt": "✗",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-11",
+      "sectionTitle": "5 Tick (✓) the sentences that are correct. Put a cross (✗) if they are incorrect."
+    },
+    {
+      "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-2-a3",
+      "type": "open_ended",
+      "prompt": "✓",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-11",
+      "sectionTitle": "5 Tick (✓) the sentences that are correct. Put a cross (✗) if they are incorrect."
+    },
+    {
+      "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-2-a4",
+      "type": "open_ended",
+      "prompt": "✗",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-11",
+      "sectionTitle": "5 Tick (✓) the sentences that are correct. Put a cross (✗) if they are incorrect."
+    },
+    {
+      "id": "5-tick-the-sentences-that-are-correct-put-a-cross-if-they-are-incorrect-2-a5",
+      "type": "open_ended",
+      "prompt": "✓",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted to quiz flow from non-mcq source type."
+      },
+      "sectionId": "section-11",
+      "sectionTitle": "5 Tick (✓) the sentences that are correct. Put a cross (✗) if they are incorrect."
+    },
+    {
+      "id": "6-circle-the-correct-options-2-a1",
+      "type": "open_ended",
+      "prompt": "b (didn't start)",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-12",
+      "sectionTitle": "6 Circle the correct options."
+    },
+    {
+      "id": "6-circle-the-correct-options-2-a2",
+      "type": "open_ended",
+      "prompt": "c (got up)",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-12",
+      "sectionTitle": "6 Circle the correct options."
+    },
+    {
+      "id": "6-circle-the-correct-options-2-a3",
+      "type": "open_ended",
+      "prompt": "a (didn't have)",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-12",
+      "sectionTitle": "6 Circle the correct options."
+    },
+    {
+      "id": "6-circle-the-correct-options-2-a4",
+      "type": "open_ended",
+      "prompt": "b (wasn't any)",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-12",
+      "sectionTitle": "6 Circle the correct options."
+    },
+    {
+      "id": "6-circle-the-correct-options-2-a5",
+      "type": "open_ended",
+      "prompt": "c (left)",
+      "game": "quiz",
+      "teacher_notes": {
+        "flags": {
+          "converted": true
+        },
+        "note": "Converted from mcq due to missing reliable options in source."
+      },
+      "sectionId": "section-12",
+      "sectionTitle": "6 Circle the correct options."
+    }
+  ]
+}
